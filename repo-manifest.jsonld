@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/DateTime/commit/b157397e216276ee6fb52ed460465a630d6f308e",
       "git:hexsha": "b157397e216276ee6fb52ed460465a630d6f308e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/DateTime/commit/5f443821403937a9ac79df00da7336d14685274a",
