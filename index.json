@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "DateTime",
+  "versions": [
+    {
+      "commit": "b157397e216276ee6fb52ed460465a630d6f308e",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:01:05.488015+00:00"
+    }
+  ]
+}
