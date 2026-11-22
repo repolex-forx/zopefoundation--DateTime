@@ -3,6 +3,11 @@
   "repo": "DateTime",
   "versions": [
     {
+      "commit": "f880a584d3d31ce65a5722f7eaadcacd3c40bd4e",
+      "tag": "6.0",
+      "parsed_at": "2026-11-22T01:40:14.025818+00:00"
+    },
+    {
       "commit": "b157397e216276ee6fb52ed460465a630d6f308e",
       "tag": "",
       "parsed_at": "2026-11-02T21:01:05.488015+00:00"
